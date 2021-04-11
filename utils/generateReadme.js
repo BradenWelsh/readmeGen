@@ -4,7 +4,7 @@ function generateReadme(answers){
 
 # ${projectsTitle}
 
-#### Table of of Contents
+#### Table of Contents
 1. [Project Description](#project-description)
 2. [Installation](#install)
 3. [Usage](#usage)
