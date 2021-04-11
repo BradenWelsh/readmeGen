@@ -1,7 +1,7 @@
 function generateReadme(answers){
     const { projectsTitle, projectDesc, install, usage, license, contributors , githubUser, email} = answers
     return `
-    
+
 # ${projectsTitle}
 
 #### Table of of Contents
@@ -24,7 +24,7 @@ function generateReadme(answers){
 * ${contributors}
 
 ## License
-    * Licensed under ${license}
+* Licensed under ${license}
 
 ## Questions ✋
 * ✋ Find me on Github @ [${githubUser}](http://github.com/${githubUser})

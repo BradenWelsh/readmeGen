@@ -22,7 +22,7 @@
 * None.
 
 ## License
-    * Licensed under Mozilla
+* Licensed under Mozilla
 
 ## Questions ✋
 * ✋ Find me on Github @ [BradenWelsh](http://github.com/BradenWelsh)
